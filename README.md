@@ -1,1 +1,3 @@
-# ProgrammerOm
+- 👋 Hi, I’m @ProgrammerOm
+- 👀 I’m interested in coding,gaming,etc
+- 🌱 I’m currently learning javascript,python,c++,etc
